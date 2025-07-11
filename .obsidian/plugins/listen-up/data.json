@@ -1,0 +1,6 @@
+{
+  "customModelFilePath": "/home/msafro12/Dokumenty/Krypta/piper/pl_PL-gosia-medium.onnx",
+  "customModelConfigFilePath": "/home/msafro12/Dokumenty/Krypta/piper/pl_PL-gosia-medium.onnx.json",
+  "piperExecutableFilePath": "/usr/bin/piper-tts",
+  "shouldUseCustomModel": true
+}

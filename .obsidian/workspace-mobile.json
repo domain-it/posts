@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "aa8022663db31131",
+    "type": "split",
+    "children": [
+      {
+        "id": "54a7dfc60d06e345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97af17fab7d5ad3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Dziennik/00 - Notatki/2025/czerwiec/4-06-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-06-25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07589c8a47b8f928",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "49ddac1a67012ecc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Przeglądarka plików"
+        }
+      },
+      {
+        "id": "971d296154384c87",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Szukaj"
+        }
+      },
+      {
+        "id": "facd70542475093a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tagi"
+        }
+      },
+      {
+        "id": "2914d1a13e527602",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Ulubione"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bd8e9f141e9eb29f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "812f9a61f0728a4b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Linki zwrotne"
+        }
+      },
+      {
+        "id": "b678215754758370",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Łącza wychodzące"
+        }
+      },
+      {
+        "id": "0a37cf6c655ed09d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Konspekt"
+        }
+      },
+      {
+        "id": "2ceb1e479ffd0ea2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "abbreviations-mark:List abbreviations": false,
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz codzienną notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Customization sync": false
+    }
+  },
+  "active": "97af17fab7d5ad3c",
+  "lastOpenFiles": [
+    "06 - Dziennik/00 - Notatki/2025/czerwiec/4-06-25.md",
+    "99 - Meta/00 - Szablony/02 - Zasób (Szablon).md",
+    "99 - Meta/00 - Szablony/01 - Zadanie (Szablon).md",
+    "99 - Meta/00 - Szablony/00 - Dziennik (Szablon).md",
+    "06 - Dziennik/99 - Tablica zadań.md",
+    "99 - Meta/00 - Szablony",
+    "99 - Meta",
+    "06 - Dziennik/00 - Notatki/2025/czerwiec/3-06-25.md",
+    "06 - Dziennik/01 - Zadania/Rekrutacja - HomeOnTour.md",
+    "06 - Dziennik/01 - Zadania/Przygotować dokumentację na rozmowę kwalifikacyjną z HomeOnTour Angular.md",
+    "06 - Dziennik/00 - Notatki/2025/czerwiec",
+    "03 - Zasoby/20250604 - Typescript.md",
+    "06 - Dziennik/00 - Notatki/2025",
+    "06 - Dziennik/01 - Zadania",
+    "06 - Dziennik/00 - Notatki",
+    "06 - Dziennik",
+    "03 - Zasoby/20250604 - Angular.md",
+    "03 - Zasoby/20250603 - JavaScript.md",
+    "03 - Zasoby"
+  ]
+}

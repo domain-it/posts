@@ -1,0 +1,177 @@
+{
+  "styles": {
+    "01 - Projekty": {
+      "backgroundColor": "#a6e3a1",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false,
+      "applyToFiles": true
+    },
+    "02 - Przestrzenie": {
+      "backgroundColor": "#94e2d5",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false,
+      "applyToFiles": true
+    },
+    "03 - Zasoby": {
+      "backgroundColor": "#89dceb",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false,
+      "isItalic": false,
+      "applyToFiles": true
+    },
+    "04 - Permanentne": {
+      "backgroundColor": "#74c7ec",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false
+    },
+    "05 - Tymczasowe": {
+      "backgroundColor": "#89b4fa",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false,
+      "applyToFiles": true
+    },
+    "06 - Dziennik": {
+      "backgroundColor": "#b4befe",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false,
+      "applyToFiles": false
+    },
+    "07 - Archiwum": {
+      "backgroundColor": "#cba6f7",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "99 - Meta": {
+      "backgroundColor": "#1e1e2e",
+      "textColor": "#45475a",
+      "applyToSubfolders": true,
+      "isBold": false,
+      "applyToFiles": true
+    }
+  },
+  "presets": {
+    "Rosewater": {
+      "backgroundColor": "#f5e0dc",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true
+    },
+    "Flamingo": {
+      "backgroundColor": "#f2cdcd",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true
+    },
+    "Pink": {
+      "backgroundColor": "#f5c2e7",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true
+    },
+    "Mauve": {
+      "backgroundColor": "#cba6f7",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true
+    },
+    "Red": {
+      "backgroundColor": "#f38ba8",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true
+    },
+    "Maroon": {
+      "backgroundColor": "#eba0ac",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false
+    },
+    "Peach": {
+      "backgroundColor": "#fab387",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false
+    },
+    "Yellow": {
+      "backgroundColor": "#f9e2af",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false
+    },
+    "Green": {
+      "backgroundColor": "#a6e3a1",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false
+    },
+    "Teal": {
+      "backgroundColor": "#94e2d5",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false
+    },
+    "Sky": {
+      "backgroundColor": "#89dceb",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false
+    },
+    "Sapphire": {
+      "backgroundColor": "#74c7ec",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false
+    },
+    "Blue": {
+      "backgroundColor": "#89b4fa",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false
+    },
+    "Lavender": {
+      "backgroundColor": "#b4befe",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false
+    },
+    "White": {
+      "backgroundColor": "#cdd6f4",
+      "textColor": "#1e1e2e",
+      "applyToSubfolders": true,
+      "isBold": false
+    },
+    "Black": {
+      "backgroundColor": "#11111b",
+      "textColor": "#cdd6f4",
+      "applyToSubfolders": true,
+      "isBold": false
+    },
+    "Disabled": {
+      "backgroundColor": "#1e1e2e",
+      "textColor": "#45475a",
+      "applyToSubfolders": true,
+      "isBold": false
+    }
+  },
+  "presetOrder": [
+    "Rosewater",
+    "Flamingo",
+    "Pink",
+    "Mauve",
+    "Red",
+    "Maroon",
+    "Peach",
+    "Yellow",
+    "Green",
+    "Teal",
+    "Sky",
+    "Sapphire",
+    "Blue",
+    "Lavender",
+    "White",
+    "Black",
+    "Disabled"
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "main": {
+    "id": "0669f64e1d112901",
+    "type": "split",
+    "children": [
+      {
+        "id": "99aa6aea08540f68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc3f6c8e3ab71d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Zasoby/20250604 - Angular.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250604 - Angular"
+            }
+          },
+          {
+            "id": "48b7b27d373e289b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250619-Under_construction/20250619-Under_construction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250619-Under_construction"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6e725b3c2176aef",
+    "type": "split",
+    "children": [
+      {
+        "id": "0422a87cfdf46011",
+        "type": "tabs",
+        "dimension": 69.28999144568007,
+        "children": [
+          {
+            "id": "a8cb1488d1d23cc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
+            }
+          },
+          {
+            "id": "ad8f085c078b8f29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#JavaScript",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Szukaj"
+            }
+          },
+          {
+            "id": "051c08739983770a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Ulubione"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e5d209fc763568b",
+        "type": "tabs",
+        "dimension": 30.710008554319934,
+        "children": [
+          {
+            "id": "a5babc1a7da12e36",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.0124969482422
+  },
+  "right": {
+    "id": "0d4d46ca5fd6ec6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb2c5f9feab4aedd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c4bd8db248d2494",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Zasoby/20250603 - TypeScript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne do 20250603 - TypeScript"
+            }
+          },
+          {
+            "id": "69a8ff57a8898835",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Zasoby/20250603 - TypeScript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Łącza wychodzące z 20250603 - TypeScript"
+            }
+          },
+          {
+            "id": "46a76dca4b474e26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          },
+          {
+            "id": "fcefb7f65989d45e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Zasoby/20250604 - Angular.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Konspekt 20250604 - Angular"
+            }
+          },
+          {
+            "id": "b4cdbf5d41cd9771",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Wtyczka nie jest już aktywna"
+            }
+          },
+          {
+            "id": "6f48fc26eed701fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "f5ae6257bc29483d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "55808a6d66f4e988",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "51b81ecdb9aa439c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "102094f84a5f527d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "17f90a8b9a1ad5db",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "cecad878ba8b264c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "5d08e275d13a6c9f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "a9f7da7cded04147",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "21faf2d6bdc939e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "f678278a10d9d7c2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "f7096c5516128fd8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "0b7f212215a17b5f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "bbf99888500aae62",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "a5e9afa5638c3663",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          },
+          {
+            "id": "efa752872e1873fd",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          }
+        ],
+        "currentTab": 20
+      }
+    ],
+    "direction": "horizontal",
+    "width": 724,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz codzienną notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "abbreviations-mark:List abbreviations": false
+    }
+  },
+  "active": "efa752872e1873fd",
+  "lastOpenFiles": [
+    "20250619-Under_construction/thatselby--7QPeGK2_iU-unsplash(1).jpg",
+    "20250619-Under_construction/20250619-Under_construction.md",
+    "test/test.md",
+    "01 - Projekty/01 - Domain.IT Blog/20250617_about_me.md",
+    "06 - Dziennik/00 - Notatki/2025/czerwiec/19-06-25.md",
+    "05 - Tymczasowe/Lab4.md",
+    "01 - Projekty/01 - Domain.IT Blog",
+    "05 - Tymczasowe/sprawdzam się.md",
+    "06 - Dziennik/00 - Notatki/2025/czerwiec/17-06-25.md",
+    "99 - Meta/01 - Załączniki/20250603---JavaScript.md-18199.wav",
+    "99 - Meta/01 - Załączniki/Pasted image 20250614110401.png",
+    "99 - Meta/01 - Załączniki/Pasted image 20250614110318.png",
+    "99 - Meta/01 - Załączniki/Pasted image 20250614110018.png",
+    "99 - Meta/01 - Załączniki/Pasted image 20250614105944.png",
+    "06 - Dziennik/00 - Notatki/2025/czerwiec/14-06-25.md",
+    "01 - Projekty/00 - HomeOnTour/home on tour.md",
+    "06 - Dziennik/00 - Notatki/2025/czerwiec/5-06-25.md",
+    "06 - Dziennik/99 - Tablica zadań.md",
+    "06 - Dziennik/01 - Zadania/Rekrutacja - HomeOnTour.md",
+    "06 - Dziennik/01 - Zadania/Przygotować dokumentację na rozmowę kwalifikacyjną z HomeOnTour Angular.md",
+    "03 - Zasoby/20250604 - Angular.md",
+    "Bez nazwy 1.md",
+    "01 - Projekty/00 - HomeOnTour",
+    "03 - Zasoby/20250604 - Typescript.md",
+    "03 - Zasoby/20250603 - JavaScript.md",
+    "99 - Meta/01 - Załączniki/20250604---Angular.md-34301.wav",
+    "sprawdzam-się.md-47861.wav",
+    "piper/espeak-ng-data/voices/!v/zac",
+    "piper/espeak-ng-data/voices/!v/whisperf",
+    "piper/espeak-ng-data/voices/!v/whisper",
+    "piper/espeak-ng-data/voices/!v/victor",
+    "piper/espeak-ng-data/voices/!v/travis",
+    "06 - Dziennik/00 - Notatki/2025/czerwiec/3-06-25.md",
+    "06 - Dziennik/00 - Notatki/2025/czerwiec/4-06-25.md",
+    "99 - Meta/00 - Szablony/02 - Zasób (Szablon).md",
+    "flag_rebuild.md",
+    "Archiwum/06 - Dziennik/00 - Notatki/2025/czerwiec/4-06-25.md",
+    "Archiwum/99 - Meta/00 - Szablony/00 - Dziennik (Szablon).md",
+    "Archiwum/06 - Dziennik/00 - Notatki/2025/czerwiec/3-06-25.md",
+    "Archiwum/99 - Meta/00 - Szablony/02 - Zasób (Szablon).md",
+    "99 - Meta/01 - Załączniki/Bez nazwy.canvas",
+    "99 - Meta/01 - Załączniki/dupa.canvas",
+    "99 - Meta/01 - Załączniki/Bez nazwy 3.canvas",
+    "99 - Meta/01 - Załączniki/Bez nazwy 2.canvas",
+    "99 - Meta/01 - Załączniki/Bez nazwy 1.canvas",
+    "99 - Meta/01 - Załączniki/Bez nazwy 4.canvas",
+    "Bez nazwy.canvas"
+  ]
+}
