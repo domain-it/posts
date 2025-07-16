@@ -7,7 +7,7 @@ tags:
 author: Dominik Boczkowski
 date: 2025-07-15
 title: Start with Linux
-description: 
+description: In times when Microsoft is making the moves it's making, and macOS is changing its UI to Liquid Glass, which doesn't appeal to everyone, more and more people are considering alternatives.
 robots: true
 charset: UTF-8
 ---
