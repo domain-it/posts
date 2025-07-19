@@ -13,7 +13,7 @@ charset: UTF-8
 ---
 In times when Microsoft is making the moves it's making, and macOS is changing its UI to Liquid Glass, which doesn't appeal to everyone, more and more people are considering alternatives. Not everyone knows that there are many other options besides these two giants, for example Linux. Linux (purists would probably say we're talking about the GNU/Linux system 🤓) is an open-source and free-to-use, UNIX-based operating system created by Linus Torvalds[^1]. Its kernel was written during the creator's studies and is still being developed today. But enough about its history.
 
-![Linux logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg)
+![Linux logo](https://www.mwtc.pl/img/linux-training-main-page.png)
 
 # Why Linux?
 
